@@ -1,5 +1,5 @@
 ![freeCodeCamp.org Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
-
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/CurriculumExpansion)](https://repl.it/github/freeCodeCamp/CurriculumExpansion)
 # freeCodeCamp.org's upcoming Curriculum
 
 > ### This repository is for discussing new curricula for freeCodeCamp.org
